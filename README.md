@@ -6,7 +6,7 @@
 ![Scripts: PowerShell](https://img.shields.io/badge/scripts-PowerShell-5391FE)
 ![License: MIT](https://img.shields.io/badge/license-MIT-lightgrey)
 
-> **This is a walkthrough.** Follow it in order, step by step, in your own home lab. Every module tells you what to do, why you're doing it, and how to check that it worked. It is free for anyone to use, copy, teach from and adapt (see [LICENSE](LICENSE)).
+> **This is a walkthrough.** Follow it in order, step by step, in your own home lab. Every module tells you what to do, why you're doing it, and how to check that it worked. It is free for anyone to use, copy, teach from, and adapt (see [LICENSE](LICENSE)).
 
 A free, self-paced lab that teaches the Active Directory skills help desk and IT support technicians use every day: account lockouts, password resets, onboarding and offboarding, group membership, Group Policy, and keeping the directory clean.
 
