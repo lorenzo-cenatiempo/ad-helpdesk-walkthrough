@@ -1,0 +1,11 @@
+FirstName,LastName,Department,Title,Manager,Office,Phone
+Jordan,Carter,Sales,Account Executive,,New York,555-0101
+Avery,Brooks,Sales,Sales Associate,jcarter,New York,555-0102
+Riley,Nguyen,Marketing,Marketing Coordinator,,Boston,555-0103
+Morgan,Lee,HR,HR Generalist,,New York,555-0104
+Taylor,Patel,Finance,Staff Accountant,,New York,555-0105
+Casey,Rivera,Finance,Accounts Payable Clerk,tpatel,New York,555-0106
+Jamie,Okafor,IT,Help Desk Technician,,New York,555-0107
+Drew,Kowalski,IT,Systems Administrator,,New York,555-0108
+Quinn,Martinez,Marketing,Content Specialist,rnguyen,Boston,555-0109
+Jordan,Cole,Sales,Sales Development Rep,jcarter,Boston,555-0110

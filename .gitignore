@@ -1,0 +1,18 @@
+# Keep personal and machine files out of the repo
+.DS_Store
+Thumbs.db
+desktop.ini
+*.lnk
+*.log
+*.vhdx
+*.vmdk
+*.iso
+*.pfx
+*.key
+.env
+
+# Files the lab scripts create: never commit these
+scripts/temp-passwords-*.csv
+temp-passwords-*.csv
+scripts/offboarding-records/
+offboarding-records/
